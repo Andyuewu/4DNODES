@@ -3,3 +3,6 @@
 ################################################################################
 
 /code/GUI/bin/Debug
+/code/GUI/obj/Debug
+/code/.vs/Project/v15
+/code/.vs/WindowsFormsApp2/v15
